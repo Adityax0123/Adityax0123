@@ -46,16 +46,16 @@
   - a link to the repo (and live demo if you have one)
 -->
 
-#### 🔹 [Project Name 1](https://github.com/Adityax0123/repo-name)
-> One-line description of what this project does and the problem it solves.
+#### 🔹 [Manas Setu](https://github.com/Adityax0123/repo-name)
+> An AI-powered mental wellness assistant that bridges users with mental health support through conversational check-ins and resource recommendations..
 **Tech:** Python, TensorFlow, Flask
 
-#### 🔹 [Project Name 2](https://github.com/Adityax0123/repo-name)
-> One-line description of what this project does and the problem it solves.
+#### 🔹 [Vakeel Sahab](https://github.com/Adityax0123/repo-name)
+> An AI legal assistant that helps users understand legal queries and documents in plain language using machine learning-based classification, also provides information about lawyers listed there, and has multiple legal services too.
 **Tech:** Python, scikit-learn, Pandas
 
-#### 🔹 [Project Name 3](https://github.com/Adityax0123/repo-name)
-> One-line description of what this project does and the problem it solves.
+#### 🔹 [Real time face and emotion tracker](https://github.com/Adityax0123/repo-name)
+> A computer vision system that detects faces and classifies emotions in real time from a live video feed.
 **Tech:** PyTorch, OpenCV
 
 ---
