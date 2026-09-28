@@ -20,41 +20,45 @@
 
 ### 🧰 Tech Stack & Tools
 
+**Languages**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-> ⚠️ *Replace/add badges above to match your actual stack — this is a strong starting set for an AI/ML student.*
+**AI/ML Frameworks & Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-<!--
-  Replace these with your real projects. For each one, keep it to:
-  - a clear one-line description
-  - the tech used
-  - a link to the repo (and live demo if you have one)
--->
-
 #### 🔹 [Manas Setu](https://github.com/Adityax0123/repo-name)
-> An AI-powered mental wellness assistant that bridges users with mental health support through conversational check-ins and resource recommendations..
+> An AI-powered mental wellness assistant that bridges users with mental health support through conversational check-ins and resource recommendations.
 **Tech:** Python, TensorFlow, Flask
 
 #### 🔹 [Vakeel Sahab](https://github.com/Adityax0123/repo-name)
 > An AI legal assistant that helps users understand legal queries and documents in plain language using machine learning-based classification, also provides information about lawyers listed there, and has multiple legal services too.
 **Tech:** Python, scikit-learn, Pandas
 
-#### 🔹 [Real time face and emotion tracker](https://github.com/Adityax0123/repo-name)
+#### 🔹 [Real Time Face and Emotion Tracker](https://github.com/Adityax0123/repo-name)
 > A computer vision system that detects faces and classifies emotions in real time from a live video feed.
 **Tech:** PyTorch, OpenCV
 
